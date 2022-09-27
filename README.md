@@ -10,9 +10,3 @@
 MSHcomm/MSHcomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[ About Me](https://github.com/Francois-Adham/Francois-Adham#-about-me)
-
-    mortar_board I am a Fresh Graduate from Computer Engineering Department, Faculty of Engineering, Cairo University
-    running_man I am passionate about Web Development, Machine Learning and Computer Vision
-    speech_balloon Ask me about anything, I will be happy to help
